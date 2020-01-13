@@ -1,5 +1,5 @@
 """
-Ejercicio 06
+Ejercicio 09
 
 Escribir un programa que reciba un número n por parámetro e imprima los
 primeros números triangulares, junto con su índice.

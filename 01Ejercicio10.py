@@ -1,5 +1,5 @@
 """
-Ejercicio 07
+Ejercicio 10
 
 Escribir un programa que tome una cantidad "m" de valores ingresados por el
 usuario, a cada uno le calcule el factorial e imprima el resultado junto con
