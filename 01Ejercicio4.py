@@ -1,5 +1,6 @@
 """
-Ejercicio 4
+Ejercicio 04
+
 Escribir un programa que use un ciclo definido con rango numérico, que
 averigüe a cuántos amigos quieren saludar, les pregunte los nombres de esos
 amigos/as, y los salude.
