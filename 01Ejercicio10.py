@@ -24,7 +24,7 @@ for i in range (1, numeroOrdenes+1):
     leyendo = True
     while leyendo:
         try:
-            numero = int(input("Introduce el número del cual desea obtener el factorial"))
+            numero = int(input("Introduce el número del cual desea obtener el factorial: "))
             leyendo = False
         except ValueError:
             print("No has introducido un valor numérico")
